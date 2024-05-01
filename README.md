@@ -1,4 +1,3 @@
 # strategy_backtest
 
-
-Exercises of EP Chen Trading Book.
+Here contains the pratical exercises from E.P Chen quant trading books. For the quant trading strategies, we mainly conver the momentum and mean-reverting approach.
